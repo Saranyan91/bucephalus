@@ -1,0 +1,799 @@
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&    DOT PROBE TRAINING PHASE    &&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+probe position= 1  correct=TRUE
+UPDOWN TRAINING
+******Key stroke*****
+DOWN
+probe position= 0  correct=TRUE
+UPDOWN TRAINING
+******Key stroke*****
+UP
+probe position= 0  correct=TRUE
+UPDOWN TRAINING
+******Key stroke*****
+UP
+probe position= 1  correct=TRUE
+UPDOWN TRAINING
+******Key stroke*****
+DOWN
+probe position= 1  correct=TRUE
+UPDOWN TRAINING
+******Key stroke*****
+DOWN
+probe position= 1  correct=TRUE
+UPDOWN TRAINING
+******Key stroke*****
+DOWN
+probe position= 1  correct=TRUE
+UPDOWN TRAINING
+******Key stroke*****
+DOWN
+probe position= 0  correct=TRUE
+UPDOWN TRAINING
+******Key stroke*****
+UP
+probe position= 1  correct=TRUE
+UPDOWN TRAINING
+******Key stroke*****
+DOWN
+probe position= 1  correct=TRUE
+UPDOWN TRAINING
+******Key stroke*****
+DOWN
+probe position= 0  correct=TRUE
+UPDOWN TRAINING
+******Key stroke*****
+UP
+probe position= 1  correct=TRUE
+UPDOWN TRAINING
+******Key stroke*****
+DOWN
+probe position= 0  correct=TRUE
+UPDOWN TRAINING
+******Key stroke*****
+UP
+probe position= 0  correct=TRUE
+UPDOWN TRAINING
+******Key stroke*****
+UP
+probe position= 0  correct=TRUE
+UPDOWN TRAINING
+******Key stroke*****
+UP
+probe position= 0  correct=TRUE
+UPDOWN TRAINING
+******Key stroke*****
+UP
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&    DOT PROBE PHASE    &&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu71.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\p100.jpg
+replace by dot on upper dot probe image
+probe position= 0  correct=TRUE
+DOTPROBE	******Key stroke*****
+UP
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu82.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\e101.jpg
+replace by dot on down dot probe image
+probe position= 1  correct=TRUE
+DOTPROBE	******Key stroke*****
+DOWN
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu178.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu59.jpg
+replace by dot on down dot probe image
+probe position= 1  correct=TRUE
+DOTPROBE	******Key stroke*****
+DOWN
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu102.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\e103.jpg
+replace by dot on down dot probe image
+probe position= 1  correct=TRUE
+DOTPROBE	******Key stroke*****
+DOWN
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu123.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu135.jpg
+replace by dot on upper dot probe image
+probe position= 0  correct=TRUE
+DOTPROBE	******Key stroke*****
+UP
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu126.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu7040.jpg
+replace by dot on down dot probe image
+probe position= 1  correct=TRUE
+DOTPROBE	******Key stroke*****
+DOWN
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\e111.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu34.jpg
+replace by dot on down dot probe image
+probe position= 1  correct=TRUE
+DOTPROBE	******Key stroke*****
+DOWN
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu7705.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu2230.jpg
+replace by dot on upper dot probe image
+probe position= 0  correct=TRUE
+DOTPROBE	******Key stroke*****
+UP
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu7096.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu121.jpg
+replace by dot on down dot probe image
+probe position= 1  correct=TRUE
+DOTPROBE	******Key stroke*****
+DOWN
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\p1620.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu47.jpg
+replace by dot on upper dot probe image
+probe position= 0  correct=TRUE
+DOTPROBE	******Key stroke*****
+UP
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\p204.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu90.jpg
+replace by dot on upper dot probe image
+probe position= 0  correct=TRUE
+DOTPROBE	******Key stroke*****
+UP
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu105.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\p5780.jpg
+replace by dot on down dot probe image
+probe position= 1  correct=TRUE
+DOTPROBE	******Key stroke*****
+DOWN
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu136.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\e9041.jpg
+replace by dot on upper dot probe image
+probe position= 0  correct=TRUE
+DOTPROBE	******Key stroke*****
+UP
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\p208.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu179.jpg
+replace by dot on down dot probe image
+probe position= 1  correct=TRUE
+DOTPROBE	******Key stroke*****
+DOWN
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\e106.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu177.jpg
+replace by dot on upper dot probe image
+probe position= 0  correct=TRUE
+DOTPROBE	******Key stroke*****
+UP
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\e102.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu35.jpg
+replace by dot on down dot probe image
+probe position= 1  correct=TRUE
+DOTPROBE	******Key stroke*****
+DOWN
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu70.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\p5010.jpg
+replace by dot on upper dot probe image
+probe position= 0  correct=TRUE
+DOTPROBE	******Key stroke*****
+UP
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu7710.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu7186.jpg
+replace by dot on upper dot probe image
+probe position= 0  correct=TRUE
+DOTPROBE	******Key stroke*****
+UP
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu53.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu31.jpg
+replace by dot on down dot probe image
+probe position= 1  correct=TRUE
+DOTPROBE	******Key stroke*****
+DOWN
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu132.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\e122.jpg
+replace by dot on upper dot probe image
+probe position= 0  correct=TRUE
+DOTPROBE	******Key stroke*****
+UP
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\e2205.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu184.jpg
+replace by dot on down dot probe image
+probe position= 1  correct=TRUE
+DOTPROBE	******Key stroke*****
+DOWN
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu7030.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\p1750.jpg
+replace by dot on down dot probe image
+probe position= 1  correct=TRUE
+DOTPROBE	******Key stroke*****
+DOWN
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu37.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu81.jpg
+replace by dot on down dot probe image
+probe position= 1  correct=TRUE
+DOTPROBE	******Key stroke*****
+DOWN
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu113.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\p201.jpg
+replace by dot on down dot probe image
+probe position= 1  correct=TRUE
+DOTPROBE	******Key stroke*****
+DOWN
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu154.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu7035.jpg
+replace by dot on upper dot probe image
+probe position= 0  correct=TRUE
+DOTPROBE	******Key stroke*****
+UP
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu89.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\e3301.jpg
+replace by dot on upper dot probe image
+probe position= 0  correct=TRUE
+DOTPROBE	******Key stroke*****
+UP
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu7224.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu33.jpg
+replace by dot on down dot probe image
+probe position= 1  correct=TRUE
+DOTPROBE	******Key stroke*****
+DOWN
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu23.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu7190.jpg
+replace by dot on upper dot probe image
+probe position= 0  correct=TRUE
+DOTPROBE	******Key stroke*****
+UP
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\e126.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu5520.jpg
+replace by dot on upper dot probe image
+probe position= 0  correct=TRUE
+DOTPROBE	******Key stroke*****
+UP
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\e2900.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu118.jpg
+replace by dot on upper dot probe image
+probe position= 0  correct=TRUE
+DOTPROBE	******Key stroke*****
+UP
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\p2340.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu138.jpg
+replace by dot on upper dot probe image
+probe position= 0  correct=TRUE
+DOTPROBE	******Key stroke*****
+UP
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu170.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\p2360.jpg
+replace by dot on upper dot probe image
+probe position= 0  correct=TRUE
+DOTPROBE	******Key stroke*****
+UP
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu7009.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\e3230.jpg
+replace by dot on down dot probe image
+probe position= 1  correct=TRUE
+DOTPROBE	******Key stroke*****
+DOWN
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu153.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu169.jpg
+replace by dot on upper dot probe image
+probe position= 0  correct=TRUE
+DOTPROBE	******Key stroke*****
+UP
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\p1811.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu160.jpg
+replace by dot on down dot probe image
+probe position= 1  correct=TRUE
+DOTPROBE	******Key stroke*****
+DOWN
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\p2050.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu7004.jpg
+replace by dot on down dot probe image
+probe position= 1  correct=TRUE
+DOTPROBE	******Key stroke*****
+DOWN
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu45.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu6930.jpg
+replace by dot on down dot probe image
+probe position= 1  correct=TRUE
+DOTPROBE	******Key stroke*****
+DOWN
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\e2205.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu85.jpg
+replace by dot on down dot probe image
+probe position= 1  correct=TRUE
+DOTPROBE	******Key stroke*****
+DOWN
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu73.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu111.jpg
+replace by dot on down dot probe image
+probe position= 1  correct=TRUE
+DOTPROBE	******Key stroke*****
+DOWN
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\p2500.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu42.jpg
+replace by dot on upper dot probe image
+probe position= 0  correct=TRUE
+DOTPROBE	******Key stroke*****
+UP
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu122.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\e122.jpg
+replace by dot on upper dot probe image
+probe position= 0  correct=TRUE
+DOTPROBE	******Key stroke*****
+UP
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\p5982.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu7700.jpg
+replace by dot on upper dot probe image
+probe position= 0  correct=TRUE
+DOTPROBE	******Key stroke*****
+UP
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu137.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\p2260.jpg
+replace by dot on upper dot probe image
+probe position= 0  correct=TRUE
+DOTPROBE	******Key stroke*****
+UP
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu157.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu38.jpg
+replace by dot on upper dot probe image
+probe position= 0  correct=TRUE
+DOTPROBE	******Key stroke*****
+UP
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\e126.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu114.jpg
+replace by dot on upper dot probe image
+probe position= 0  correct=TRUE
+DOTPROBE	******Key stroke*****
+UP
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu2210.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu9830.jpg
+replace by dot on down dot probe image
+probe position= 1  correct=TRUE
+DOTPROBE	******Key stroke*****
+DOWN
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu7006.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu164.jpg
+replace by dot on down dot probe image
+probe position= 1  correct=TRUE
+DOTPROBE	******Key stroke*****
+DOWN
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu103.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\p202.jpg
+replace by dot on down dot probe image
+probe position= 1  correct=TRUE
+DOTPROBE	******Key stroke*****
+DOWN
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu110.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu141.jpg
+replace by dot on down dot probe image
+probe position= 1  correct=TRUE
+DOTPROBE	******Key stroke*****
+DOWN
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\e2900.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu7170.jpg
+replace by dot on upper dot probe image
+probe position= 0  correct=TRUE
+DOTPROBE	******Key stroke*****
+UP
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\p2040.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu21.jpg
+replace by dot on down dot probe image
+probe position= 1  correct=TRUE
+DOTPROBE	******Key stroke*****
+DOWN
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu65.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\e3301.jpg
+replace by dot on down dot probe image
+probe position= 1  correct=TRUE
+DOTPROBE	******Key stroke*****
+DOWN
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu51.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\e3230.jpg
+replace by dot on upper dot probe image
+probe position= 0  correct=TRUE
+DOTPROBE	******Key stroke*****
+UP
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu129.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\p7330.jpg
+replace by dot on upper dot probe image
+probe position= 0  correct=TRUE
+DOTPROBE	******Key stroke*****
+UP
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu171.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\p7350.jpg
+replace by dot on down dot probe image
+probe position= 1  correct=TRUE
+DOTPROBE	******Key stroke*****
+DOWN
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu108.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\p5870.jpg
+replace by dot on upper dot probe image
+probe position= 0  correct=TRUE
+DOTPROBE	******Key stroke*****
+UP
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\p2070.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu176.jpg
+replace by dot on upper dot probe image
+probe position= 0  correct=TRUE
+DOTPROBE	******Key stroke*****
+UP
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu22.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu5510.jpg
+replace by dot on upper dot probe image
+probe position= 0  correct=TRUE
+DOTPROBE	******Key stroke*****
+UP
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu125.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu146.jpg
+replace by dot on upper dot probe image
+probe position= 0  correct=TRUE
+DOTPROBE	******Key stroke*****
+UP
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu10001.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\e118.jpg
+replace by dot on upper dot probe image
+probe position= 0  correct=TRUE
+DOTPROBE	******Key stroke*****
+UP
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu48.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\e113.jpg
+replace by dot on down dot probe image
+probe position= 1  correct=TRUE
+DOTPROBE	******Key stroke*****
+DOWN
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu162.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu67.jpg
+replace by dot on upper dot probe image
+probe position= 0  correct=TRUE
+DOTPROBE	******Key stroke*****
+UP
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu7010.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\p2000.jpg
+replace by dot on down dot probe image
+probe position= 1  correct=TRUE
+DOTPROBE	******Key stroke*****
+DOWN
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu7187.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu124.jpg
+replace by dot on upper dot probe image
+probe position= 0  correct=TRUE
+DOTPROBE	******Key stroke*****
+UP
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu145.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\e125.jpg
+replace by dot on down dot probe image
+probe position= 1  correct=TRUE
+DOTPROBE	******Key stroke*****
+DOWN
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu74.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu36.jpg
+replace by dot on upper dot probe image
+probe position= 0  correct=TRUE
+DOTPROBE	******Key stroke*****
+UP
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\p5600.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu107.jpg
+replace by dot on down dot probe image
+probe position= 1  correct=TRUE
+DOTPROBE	******Key stroke*****
+DOWN
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\e2141.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu7080.jpg
+replace by dot on down dot probe image
+probe position= 1  correct=TRUE
+DOTPROBE	******Key stroke*****
+DOWN
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\e108.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu72.jpg
+replace by dot on down dot probe image
+probe position= 1  correct=TRUE
+DOTPROBE	******Key stroke*****
+DOWN
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu25.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu187.jpg
+replace by dot on down dot probe image
+probe position= 1  correct=TRUE
+DOTPROBE	******Key stroke*****
+DOWN
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\p1920.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu143.jpg
+replace by dot on down dot probe image
+probe position= 1  correct=TRUE
+DOTPROBE	******Key stroke*****
+DOWN
+removed both images in dot probe image
+removed both images in dot probe image
+showing fixation
+showing both images on dot probe image
+	up dot probe Image: C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\e2276.jpg
+	 down dot probe image : C:\Users\Saranyan\Documents\SPICE Tool\EAGER_GUI\dotProbe\images\neu106.jpg
+replace by dot on upper dot probe image
+probe position= 0  correct=TRUE
+DOTPROBE	******Key stroke*****
+UP
+removed both images in dot probe image
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&    WORD PROBE PRACTISE PHASE    &&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&    WORD PROBE PHASE    &&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&    INTERACTIVE ENVIRONMENT PHASE    &&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
