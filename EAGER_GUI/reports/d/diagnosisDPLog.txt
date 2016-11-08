@@ -1,0 +1,16 @@
+************************************* STARTING APPLICAITON ********************************************
+screen size= (1920, 1200)
+Program Start Time :14-13-17-13S
+PHASE.phaseNumber = 5
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&    INTERACTIVE ENVIRONMENT PHASE    &&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+PHASE.phaseNumber = 5
+Showing mouse pointer on the screen/nShowing mouse pointer on the screen/nPHASE.phaseNumber = 5
+Showing mouse pointer on the screen/nShowing mouse pointer on the screen/nPHASE.phaseNumber = 5
+Showing mouse pointer on the screen/nShowing mouse pointer on the screen/nPHASE.phaseNumber = 5
+Showing mouse pointer on the screen/nShowing mouse pointer on the screen/nPHASE.phaseNumber = 5
+Showing mouse pointer on the screen/nShowing mouse pointer on the screen/nPHASE.phaseNumber = 5
+Showing mouse pointer on the screen/nShowing mouse pointer on the screen/nPHASE.phaseNumber = 5
+Showing mouse pointer on the screen/nShowing mouse pointer on the screen/n

@@ -1,0 +1,23 @@
+************************************* STARTING APPLICAITON ********************************************
+screen size= (1920, 1200)
+Program Start Time :13-44-08-44S
+PHASE.phaseNumber = 5
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&    INTERACTIVE ENVIRONMENT PHASE    &&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+PHASE.phaseNumber = 5
+Showing mouse pointer on the screen/nShowing mouse pointer on the screen/nPHASE.phaseNumber = 5
+Showing mouse pointer on the screen/nShowing mouse pointer on the screen/nPHASE.phaseNumber = 5
+Showing mouse pointer on the screen/nShowing mouse pointer on the screen/nPHASE.phaseNumber = 5
+Showing mouse pointer on the screen/nShowing mouse pointer on the screen/nPHASE.phaseNumber = 5
+Showing mouse pointer on the screen/nShowing mouse pointer on the screen/nPHASE.phaseNumber = 5
+Showing mouse pointer on the screen/nShowing mouse pointer on the screen/nPHASE.phaseNumber = 5
+Showing mouse pointer on the screen/nShowing mouse pointer on the screen/nPHASE.phaseNumber = 5
+Showing mouse pointer on the screen/nShowing mouse pointer on the screen/nPHASE.phaseNumber = 5
+Showing mouse pointer on the screen/nShowing mouse pointer on the screen/nPHASE.phaseNumber = 5
+Showing mouse pointer on the screen/nShowing mouse pointer on the screen/nPHASE.phaseNumber = 5
+Showing mouse pointer on the screen/nShowing mouse pointer on the screen/nPHASE.phaseNumber = 5
+Showing mouse pointer on the screen/nShowing mouse pointer on the screen/nPHASE.phaseNumber = 5
+Showing mouse pointer on the screen/nShowing mouse pointer on the screen/nDESTROYING THE APPLICATION AFTER COMPLETING ALL MATHS QUESTION/nFINISHED ALL TASK
+CLOSING APPLICATION...
